@@ -6,3 +6,8 @@ some changes
 ## subheader
 
 some other text on subheader.
+
+
+
+## Local Developtman
+1. open index.html in your browser.
